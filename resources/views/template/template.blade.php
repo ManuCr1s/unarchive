@@ -54,7 +54,9 @@
 <script src="{{asset('assets/js/plugins/bootstrap-table.js')}}"></script>
 <!--  DataTable Plugin -->
 <script src="{{asset('assets/js/plugins/jquery.dataTables.min.js')}}"></script>
-<!--  Full Calendar   -->
+<!--  Cleave Plugin -->
+<script src="{{asset('assets/js/plugins/cleave.min.js')}}"></script>
+<!--  Full Calendar -->
 <script src="{{asset('assets/js/plugins/fullcalendar.min.js')}}"></script>
 <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
 <script src="{{asset('assets/js/light-bootstrap-dashboard.js?v=2.0.1')}}" type="text/javascript"></script>
